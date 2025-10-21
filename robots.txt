@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://behramsalar.github.io//cvdeneme2/sitemap.xml
+Sitemap: https://behramsalar.github.io//cvdeneme/sitemap.xml

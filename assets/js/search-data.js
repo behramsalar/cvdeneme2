@@ -7,35 +7,35 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/cvdeneme2/";
+      window.location.href = "/cvdeneme/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cvdeneme2/blog/";
+            window.location.href = "/cvdeneme/blog/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cvdeneme2/publications/";
+            window.location.href = "/cvdeneme/publications/";
           },
         },{id: "nav-misc",
           title: "Misc",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cvdeneme2/misc/";
+            window.location.href = "/cvdeneme/misc/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cvdeneme2/cv/";
+            window.location.href = "/cvdeneme/cv/";
           },
         },{
       id: 'light-theme',
